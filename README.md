@@ -5,13 +5,13 @@
 - setoolkit
 
 ## Etapas de execução (no terminal):
-- Acesso root: <mark>sudo su
-- Iniciando o setoolkit: <mark>setoolkit
-- Tipo de ataque: <mark>Social-Engineering Attacks
-- Vetor de ataque: <mark>Web Site Attack Vectors
-- Método de ataque: <mark>Credential Harvester Attack Method
-- Método de ataque: <mark>Site Cloner
-- Obtendo o endereço da máquina: <mark>ifconfig
+- Acesso root: ```sudo su```
+- Iniciando o setoolkit: ```setoolkit```
+- Tipo de ataque: ```Social-Engineering Attacks```
+- Vetor de ataque: ```Web Site Attack Vectors```
+- Método de ataque: ```Credential Harvester Attack Method```
+- Método de ataque: ```Site Cloner```
+- Obtendo o endereço da máquina: ```ifconfig```
 - URL para clone: http://www.twitter.com
 
 ## Resultados
